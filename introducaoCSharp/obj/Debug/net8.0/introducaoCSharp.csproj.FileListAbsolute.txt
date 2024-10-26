@@ -1,0 +1,14 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\bin\Debug\net8.0\introducaoCSharp.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\bin\Debug\net8.0\introducaoCSharp.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\bin\Debug\net8.0\introducaoCSharp.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\bin\Debug\net8.0\introducaoCSharp.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\bin\Debug\net8.0\introducaoCSharp.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\refint\introducaoCSharp.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\introducaoCSharp.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\introdução ao dotnet\introducaoCSharp\obj\Debug\net8.0\ref\introducaoCSharp.dll
